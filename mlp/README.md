@@ -30,6 +30,26 @@
 20. Common Pitfalls & Debugging
 21. Performance Analysis
 22. Extending This Project
+23. What the Model is Actually Learning
+24. Why Matrix Multiplication Works
+25. Deriving the Key Gradient: dZ2 = A2 - Y
+26. Chain Rule — Full Perspective
+27. Why Gradients Are Averaged (÷ m)
+28. Why ReLU Works So Well
+29. Why Softmax Only at Output Layer
+30. Why Cross-Entropy Beats MSE
+31. Learning Rate — Deep Understanding
+32. Batch Size Trade-offs
+33. Why Training Improves Over Time
+34. Decision Boundaries
+35. Why MLP is Limited for Images
+36. Overfitting
+37. Regularization (Concept)
+38. Debugging Tips
+39. Why Your Model Got ~97%
+40. Advanced Improvements
+41. From This to Real ML Systems
+Final Conclusion
 
 ---
 
